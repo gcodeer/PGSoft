@@ -13,8 +13,4 @@
 ```
 
 # 演示视频
-<p align="center">
-  <a href="https://github.com/gcodeer/PGGame/blob/main/video/game_48.mp4">
-    <img src="https://github.com/gcodeer/PGGame/main/video/game_48_poster.jpg" width="60%" alt="Game 48 Demo">
-  </a>
-</p>
+<video src="https://github.com/gcodeer/PGGame/blob/main/video/game_48.mp4" controls width="100%"></video>
