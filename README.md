@@ -1,4 +1,5 @@
-# 出售PG游戏源码，游戏前端(H5)，定制修改前端信息；源码包括如下10款游戏：
+# 出售PG游戏源码，游戏前端(H5)，定制修改前端信息
+## 源码包括如下10款游戏：
 ```
 48      Double Fortune      双囍临门
 65      Mahjong Ways        麻将胡了
@@ -12,7 +13,7 @@
 1695365 Fortune Dragon      金龙送宝
 ```
 
-# 演示视频
+## 演示视频
 <a href="https://github.com/gcodeer/PGGame/blob/main/video/game_48.mp4">双囍临门</a>
 
 <a href="https://github.com/gcodeer/PGGame/blob/main/video/game_65.mp4">麻将胡了</a>
@@ -33,7 +34,7 @@
 
 <a href="https://github.com/gcodeer/PGGame/blob/main/video/game_1695365.mp4">金龙送宝</a>
 
-# 项目截图
+## 项目截图
 <img src="https://github.com/gcodeer/PGGame/blob/main/images/game_api_project.png" width="60%" alt="game api project">
 <img src="https://github.com/gcodeer/PGGame/blob/main/images/console_api_project.png" width="60%" alt="console api project">
 <img src="https://github.com/gcodeer/PGGame/blob/main/images/platform_api_project.png" width="60%" alt="platform api project">
@@ -41,7 +42,7 @@
 <img src="https://github.com/gcodeer/PGGame/blob/main/images/platform_console_frontend_project.png" width="60%" alt="platform console frontend project">
 <img src="https://github.com/gcodeer/PGGame/blob/main/images/console_frontend_project.png" width="60%" alt="console frontend project">
 
-# 游戏前端(H5)
+## 游戏前端(H5)
 <img src="https://github.com/gcodeer/PGGame/blob/main/images/frontend_h5_01.png" width="60%" alt="game frontend h5">
 <img src="https://github.com/gcodeer/PGGame/blob/main/images/frontend_h5_02.png" width="60%" alt="game frontend h5">
 <img src="https://github.com/gcodeer/PGGame/blob/main/images/frontend_h5_03.png" width="60%" alt="game frontend h5">
