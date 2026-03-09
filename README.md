@@ -1,5 +1,6 @@
 # 出售PG游戏源码，游戏前端(H5)，定制/修改前端信息
-Telegram：[https://t.me/welegame](https://t.me/welegame)
+[Telegram](https://t.me/welegame)
+[Youtube](https://www.youtube.com/@WeleGame)
 ## 源码包括如下10款游戏：
 ```
 48      Double Fortune      双囍临门
