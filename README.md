@@ -1,4 +1,4 @@
-# 出售PG游戏Api源码，游戏前端(H5)，定制/修改前端信息
+# PGSoft Api源码，游戏前端(H5)，定制/修改前端信息
 <img src="https://web.telegram.org/a/favicon-32x32.png" width="32" height="32" align="absmiddle"> [Telegram](https://t.me/welegame)    
 <img src="https://www.youtube.com/s/desktop/ab5c3a01/img/favicon_32x32.png" width="32" height="32" align="absmiddle"> [YouTube](https://www.youtube.com/@WeleGame)
 ## 源码包括如下10款游戏：
