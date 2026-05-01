@@ -1,6 +1,12 @@
 # PGSoft Api源码，游戏前端(H5)，定制/修改前端信息
 <img src="https://web.telegram.org/a/favicon-32x32.png" width="32" height="32" align="absmiddle"> [Telegram](https://t.me/welegame)    
 <img src="https://www.youtube.com/s/desktop/ab5c3a01/img/favicon_32x32.png" width="32" height="32" align="absmiddle"> [YouTube](https://www.youtube.com/@WeleGame)
+
+## Download
+<a href="https://demo.wele.io">Demo Website</a><br>
+<a href="https://drive.google.com/file/d/1g2shdbaYMXbgYeF8bQJkCW-6m7LJF1fo/view?usp=sharing">Api</a><br>
+<a href="https://drive.google.com/file/d/1_MdAyBvI4zytHfw5efXGnJYvvdg9_PJ-/view?usp=sharing">Games</a><br>
+<a href="https://drive.google.com/file/d/1rpbzd8N4FZfAyOxOt8ojEQj1CZ1bi3zw/view?usp=sharing">Deploy Games</a><br>
 ## 源码包括如下10款游戏：
 ```
 48      Double Fortune      双囍临门
