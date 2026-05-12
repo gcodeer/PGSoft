@@ -1,5 +1,5 @@
 # PGSoft Api源码，游戏前端(H5)，定制/修改前端信息
-<img src="https://web.telegram.org/a/favicon-32x32.png" width="32" height="32" align="absmiddle"> [Telegram](https://t.me/welegame)    
+<img src="https://web.telegram.org/a/favicon-32x32.png" width="32" height="32"> [Telegram](https://t.me/welegame)    
 
 ## Download
 <a href="https://demo.wele.io">Demo Website</a><br>
