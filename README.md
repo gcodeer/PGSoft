@@ -22,7 +22,7 @@ API: Fastapi + Mysql 8.0 + Redis
 ```
 
 ## 演示视频
-<a href="https://github.com/gcodeer/PGGame/blob/main/video/game_48.mp4">双囍临门</a>
+<a href="https://gcodeer.github.io/PGSoft/game_48.html">双囍临门(Double Fortune)</a>
 
 <a href="https://github.com/gcodeer/PGGame/blob/main/video/game_65.mp4">麻将胡了</a>
 
