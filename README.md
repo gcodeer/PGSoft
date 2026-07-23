@@ -5,11 +5,6 @@
 平台前端: Vue 3 + Vite + Tailwind CSS + Axios<br>
 API: Fastapi + Mysql 8.0 + Redis
 
-## Download
-<a href="https://demo.wele.io">Demo Website</a><br>
-<a href="https://drive.google.com/file/d/1g2shdbaYMXbgYeF8bQJkCW-6m7LJF1fo/view?usp=sharing">Api Source</a><br>
-<a href="https://drive.google.com/file/d/1_MdAyBvI4zytHfw5efXGnJYvvdg9_PJ-/view?usp=sharing">Games</a><br>
-<a href="https://drive.google.com/file/d/1rpbzd8N4FZfAyOxOt8ojEQj1CZ1bi3zw/view?usp=sharing">Deploy Games</a><br>
 ## 源码包括如下10款游戏：
 ```
 48      Double Fortune      双囍临门
