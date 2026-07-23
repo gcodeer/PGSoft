@@ -2,8 +2,10 @@
 <img src="https://web.telegram.org/a/favicon-32x32.png" width="32" height="32"> [Telegram](https://t.me/welegame)    
 
 ## 技术栈
+```
 平台前端: Vue 3 + Vite + Tailwind CSS + Axios<br>
 API: Fastapi + Mysql 8.0 + Redis
+```
 
 ## 源码包括如下10款游戏：
 ```
